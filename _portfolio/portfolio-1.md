@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "向海水库氮负荷时空分布及影响因素研究"
+excerpt: "吉林大学大学生创新创业训练计划国家级项目优秀结题<br/><img src='/images/大创.png'>"
 collection: portfolio
 ---
 
