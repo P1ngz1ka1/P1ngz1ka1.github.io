@@ -11,8 +11,8 @@ locale                   : "zh-CN"
 title                    : "我的主页"
 title_separator          : "-"
 name                     : &name "平字凯"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "个人介绍"
+url                      : https://p1ngz1ka1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "p1ngz1ka1.github.io"
 
@@ -219,7 +219,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
