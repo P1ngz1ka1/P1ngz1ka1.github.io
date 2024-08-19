@@ -1,6 +1,6 @@
 ---
 title: "向海水库氮负荷时空分布及影响因素研究"
-excerpt: "吉林大学大学生创新创业训练计划国家级项目优秀结题<br/><img src='/images/大创.png'>"
+excerpt: "吉林大学大学生创新创业训练计划国家级项目优秀结题<br/><img src='/images/未标题-2.png'>"
 collection: portfolio
 ---
 
